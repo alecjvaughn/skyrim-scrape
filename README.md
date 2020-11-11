@@ -1,0 +1,1 @@
+This crawler will use NodeJS JSDOM and jQuery to scrape the UESP:Skyrim for optimal quest completion and leveling.
